@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 1839,
+      "bodyTextHash": "8626d8a33a201ffc08bf9f26a9e59415bf78a9c82681eaf0634bbaac492480b5",
+      "bodyTextPrefix": "Lámina Histología Inicio Atlas Practicar Identificar Guía PRÁCTI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 1828,
+      "bodyTextHash": "ba270e8d642d94e4dee89f779ed36937dab8219f1852ef527be2e0dcf6809ba9",
+      "bodyTextPrefix": "Lámina Guía PRÁCTICA DE TEJIDOS Reconoce el órgano y si es epite",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

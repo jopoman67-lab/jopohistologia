@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/atlas",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 1651,
+      "bodyTextHash": "ae2f42b189aba83cdb257e4cc3519e6e64b36cbbad51486e8e306b9be9ad63b7",
+      "bodyTextPrefix": "Lámina Histología Inicio Atlas Practicar Identificar Guía ATLAS ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/atlas-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 1640,
+      "bodyTextHash": "ae027ab8f97cacdcbfc791e2474accaa5734a0cf1cb28cf440065b7d050d146a",
+      "bodyTextPrefix": "Lámina Guía ATLAS Órgano, y si es epitelio u otro tejido. Doce l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/atlas-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/atlas-smoke.json"
+}

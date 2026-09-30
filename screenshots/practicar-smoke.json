@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/practicar",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 284,
+      "bodyTextHash": "bd74dfef6978c4ad289fddef5a2a6cc6f8631a1fef249cff3512760e229708cb",
+      "bodyTextPrefix": "Lámina Histología Inicio Atlas Practicar Identificar Guía PRACTI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/practicar-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 262,
+      "bodyTextHash": "0a69cd2211de35ef2fe77d99e1c8d1202b7d439401ddd9c65abdbf3ccd4e35d3",
+      "bodyTextPrefix": "Lámina Guía PRACTICAR Campo sin etiqueta Mira el campo y di el ó",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/practicar-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/practicar-smoke.json"
+}

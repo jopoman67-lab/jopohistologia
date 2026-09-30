@@ -1,0 +1,1 @@
+import{o as e}from"./useSelector-B_P3tCcN.js";import{t}from"./utils-DXq29xaa.js";var n=e();function r({className:e,children:r}){return(0,n.jsx)(`span`,{className:t(`inline-flex items-center rounded-full bg-elevated px-2.5 py-1 text-xs font-medium text-muted shadow-[var(--shadow-border)]`,e),children:r})}export{r as t};

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/atlas/piel",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 1095,
+      "bodyTextHash": "70ee85298fa805b118981075592085146b5d73ddc567344898dfe84484969f77",
+      "bodyTextPrefix": "Lámina Histología Inicio Atlas Practicar Identificar Guía Atlas ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/piel-desktop.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lámina",
+      "hasCanvas": false,
+      "bodyTextLen": 1084,
+      "bodyTextHash": "67ccaba398431bde5722db8f77226b135278d5ddc9da596a3ed7dddadb5e5157",
+      "bodyTextPrefix": "Lámina Guía Atlas Cutis 10× 10× Queratina anucleada sobre el epi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/piel-desktop-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/piel-desktop.json"
+}
